@@ -1,3 +1,7 @@
+# 2021Fork做的工作： 用2021年ICCV的SOTA模型进行金属金相定级分割特征提取
+
+修改了数据集和特征提取逻辑。
+
 # Segmenter: Transformer for Semantic Segmentation
 
 ![Figure 1 from paper](./overview.png)
